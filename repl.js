@@ -1,7 +1,7 @@
 var repl = require('repl');
 
 var replServer = repl.start({
-	prompt: "RM >"
+	prompt: "Release Manager >"
 });
 
 module.exports = replServer;

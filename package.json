@@ -1,5 +1,5 @@
 {
-  "name": "RM",
+  "name": "Release-Manager",
   "version": "1.0.0",
   "description": "A command-line tool to use wine app",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "test": "test"
   },
   "bin": {
-    "RM": "./index.js"
+    "Release-Manager": "./index.js"
   },
   "author": "Brian Schneider",
   "license": "MIT"

@@ -12,7 +12,7 @@ Both of these commands might require sudo.
 Now that we have everything installed and linked, we can now use the cli.
 
 ###To start the CLI
-`rm`
+`Release-Manager`
 
 This will start up the CLI. Currently, there are two ways to do things. One is by defining a command. The other is by calling a self-invoked function.
 
