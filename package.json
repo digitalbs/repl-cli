@@ -1,0 +1,14 @@
+{
+  "name": "RM",
+  "version": "1.0.0",
+  "description": "A command-line tool to use wine app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "bin": {
+    "RM": "./index.js"
+  },
+  "author": "Brian Schneider",
+  "license": "MIT"
+}
